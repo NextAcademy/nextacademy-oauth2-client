@@ -14,8 +14,6 @@ gem 'omniauth-oauth2'
 
 3. Add the file `config/initializer/omniauth.rb` from this repo to the same path in your application and change the client ID and client Secret if necessary.
 
-
-
 4. Add the route for omniauth callback as such
 ```ruby
 # Example
