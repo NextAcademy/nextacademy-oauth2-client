@@ -9,10 +9,10 @@ Instructions to use:
 gem 'omniauth-oauth2'
 ```
 
-2. Add the file in `lib/omniauth/strategies/nextacademy.rb` from this repo to the same path in your application. (The path design is suggested by omniauth's dev.)
+2. Add the file `lib/omniauth/strategies/nextacademy.rb` from this repo to the same path in your application. (The path design is suggested by omniauth's dev.)
 
 
-3. Add the file in `config/initializer/omniauth.rb` from this repo to the same path in your application and change the client ID and client Secret if necessary.
+3. Add the file `config/initializer/omniauth.rb` from this repo to the same path in your application and change the client ID and client Secret if necessary.
 
 
 
