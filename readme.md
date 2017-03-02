@@ -1,6 +1,6 @@
 # Omniauth NextAcademy
 
-This repo is used for NextAcademy's strategy for OmniAuth 2.0
+This repo is used to build a custom strategy for OmniAuth 2.0 for NextAcademy.
 
 Instructions to use:
 
