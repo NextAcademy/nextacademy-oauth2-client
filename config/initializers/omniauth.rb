@@ -1,7 +1,7 @@
 module OmniAuth
   module Strategies
-    # tell OmniAuth to load our strategy
-    # defined in lib/nextacademy.rb
+    # tells OmniAuth to load our strategy when the class is being used
+    # defined in lib/omniauth/strategies/nextacademy.rb
     autoload :Nextacademy, Rails.root.join('lib', 'omniauth', 'strategies', 'nextacademy')
   end
 end
