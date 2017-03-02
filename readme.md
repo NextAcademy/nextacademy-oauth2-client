@@ -1,4 +1,4 @@
-mniauth NextAcademy
+# Omniauth NextAcademy
 
 This repo is used for NextAcademy's strategy for OmniAuth 2.0
 
