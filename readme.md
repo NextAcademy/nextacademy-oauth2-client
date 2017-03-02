@@ -2,7 +2,7 @@
 
 This repo is used for NextAcademy's strategy for OmniAuth 2.0
 
-To use:
+Instructions to use:
 
 1. Add the following into your `Gemfile`
 ```ruby
